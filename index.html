@@ -9,22 +9,44 @@
   <meta name="viewport"
     content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <!-- Theme -->
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
+  <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
 
 </head>
 
 <body>
-  <div id="app"></div>
+  <div data-app id="app">Please wait...</div>
   <script>
     window.$docsify = {
+      logo: '/images/logo.png',
       name: '我课帮助中心',
       repo: '',
       loadSidebar: true,
       subMaxLevel: 2,
-      loadNavbar: true
+      loadNavbar: true,
+
+      // 全文搜索
+      search: {
+        maxAge: 86400000, // Expiration time, the default one day
+        paths: [
+          '/',            // => /README.md
+          '/guide',       // => /guide.md
+          '/personal_center', // => /get-started.md
+          '/teacher/',      // => /zh-cn/README.md
+        ],
+        placeholder: '搜索',
+        noData: '找不到结果',
+        // Headline depth, 1 - 6
+        depth: 2,
+        hideOtherSidebarContent: false, // whether or not to hide other sidebar content
+        // To avoid search index collision
+        // between multiple websites under the same domain
+        namespace: 'mecourse-docs',
+      }
     }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/zoom-image.min.js"></script>
 </body>
 
 </html>
