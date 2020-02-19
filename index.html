@@ -28,16 +28,16 @@
       // 全文搜索
       search: {
         maxAge: 86400000, // Expiration time, the default one day
-        paths: [
-          '/',            // => /README.md
-          '/guide',       // => /guide.md
-          '/personal_center', // => /get-started.md
-          '/teacher/',      // => /zh-cn/README.md
-        ],
+        // paths: [
+        //   '/',            // => /README.md
+        //   '/guide',       // => /guide.md
+        //   '/personal_center',
+        //   '/teacher/*',
+        // ],
         placeholder: '搜索',
         noData: '找不到结果',
         // Headline depth, 1 - 6
-        depth: 2,
+        depth: 3,
         hideOtherSidebarContent: false, // whether or not to hide other sidebar content
         // To avoid search index collision
         // between multiple websites under the same domain
