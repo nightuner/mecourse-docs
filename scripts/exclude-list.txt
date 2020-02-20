@@ -1,0 +1,9 @@
+logs
+scripts
+.git
+.idea
+.DS_Store
+.eslintrc.json
+.gitignore
+*.map
+node_modules
