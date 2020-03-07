@@ -2,8 +2,8 @@
 目前使用的腾讯云在线教育互动课堂，具有实时音视频、交互式白板涂鸦、IM聊天室、PPT课件共享、屏幕分享等功能。
 
 ## 互动课堂客户端下载
-Windows：[单击下载][1]  
-macOS：暂时macOS客户端有些问题，请安装[Chrome浏览器][2]
+Windows：[单击下载Win客户端][1]  
+macOS：[单击下载Mac客户端][2]，我们推荐安装[Chrome浏览器][4]
 
 ## 如何进入互动课堂
 1. 获取课堂编号  
@@ -32,5 +32,6 @@ macOS：暂时macOS客户端有些问题，请安装[Chrome浏览器][2]
 3. 老师通过新建的测试课堂编号，登录腾讯云互动课堂，即可在测试直播间里进行课件上传等操作。（请注意：课件上传到私人课件，不要上传到公共课件。）
 
 [1]:http://dldir1.qq.com/hudongzhibo/Saas/TClass_Setup_Saas.exe
-[2]:https://www.google.cn/intl/zh-CN/chrome/
+[2]:http://dldir1.qq.com/hudongzhibo/Saas/TClass_Saas.dmg
 [3]:https://www.meke.ai/
+[4]:https://www.google.cn/intl/zh-CN/chrome/
