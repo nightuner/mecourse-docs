@@ -20,20 +20,21 @@
 
 ## 基本操作
 ### 静音/取消静音
-电脑端：进入以后如果没有声音，请点击左下角“取消静音”按钮。
+电脑端：进入以后如果没有声音，请点击左下角“取消静音”按钮。  
 Pad端：进入以后如果没有声音，请点击右上方“取消静音”按钮。
 
 ### 开启/关闭视频
-电脑端：进入以后如果没有视频，请点击下角“开启视频”按钮。
+电脑端：进入以后如果没有视频，请点击下角“开启视频”按钮。  
 Pad端：进入以后如果没有视频，请点击右上方“开启视频”按钮。
 
 ### 录制视频
 在取得老师授权录制视频后，可以录制上课视频，具体操作请参考下方的视频  
+[点击查看电脑录制视频教程]( https://images.mecourse.cn/zoom/zoom_recording.mp4 ':include :type=video controls width=100% height=400px' )
 
-<video width="100%" height="400" controls>
+<!-- <video width="100%" height="400" controls>
   <source src="https://images.mecourse.cn/zoom/zoom_recording.mp4" type="video/mp4">
   你的浏览器不支持播放视频
-</video>
+</video> -->
 
 [1]:https://www.zoom.com.cn/download
 [2]:https://zoomus.cn/client/5.1.27803.0612/zoom.apk
