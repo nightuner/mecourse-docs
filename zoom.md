@@ -31,10 +31,18 @@ Pad端：进入以后如果没有视频，请点击右上方“开启视频”�
 在取得老师授权录制视频后，可以录制上课视频，具体操作请参考下方的视频  
 [点击查看电脑录制视频教程]( https://images.mecourse.cn/zoom/zoom_recording.mp4 ':include :type=video controls width=100% height=400px' )
 
-<!-- <video width="100%" height="400" controls>
-  <source src="https://images.mecourse.cn/zoom/zoom_recording.mp4" type="video/mp4">
-  你的浏览器不支持播放视频
-</video> -->
+## 常见问题
+### 加入会议失败
+1. 客户端版本问题  
+当你使用电脑客户端加入会议，提示：本场会议已结束或会议号不存在，请检查并重试。卸载原先安装的Zoom客户端，并使用我课提供的ZOOM中国官方网站，下载最新版本的电脑客户端。  
+如果你使用平板加入会议时一直停在等待中的情况。请检查加入会议页面是否有：有登录到ZOOM代理商？如有，请卸载原先安装的Zoom APP，在电子市场重新下载Zoom Cloud Meetings。
+
+2. 网络问题  
+请打开浏览器，确认是否可以正常访问外部网站，比如：新浪、网易等。
+
+### 课堂有回音
+1. 扬声器（例如投屏到电视机的情况下）声音太大。
+2. 同时开启了两个扬声器，需禁用其中一个扬声器。
 
 [1]:https://www.zoom.com.cn/download
 [2]:https://zoomus.cn/client/5.1.27803.0612/zoom.apk
