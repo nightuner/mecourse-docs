@@ -16,7 +16,7 @@
 等候室：老师可以手动开启了等候室功能，此时学生进入会议室，需要得到老师的允许方可进入，如有学生加入会议，老师会收到系统提示，请及时查看等候室，准许学生进入。
 
 ## ZOOM使用教程
-我们为您准备了一个视频教程供你参考：[点击查看ZOOM视频教程]( https://images.mecourse.cn/zoom/demo0707-720p.mp4 ':include :type=video controls width=100% height=400px' )  
+我们为您准备了一个视频教程供你参考：[点击查看ZOOM视频教程]( https://images.mecourse.cn/zoom/demo0719-720p.mp4 ':include :type=video controls width=100% height=400px' )  
 您也可以参考下方的文字和图片教程，帮助您快速掌握ZOOM的基本功能使用。
 
 ### 显示会议进行时间
