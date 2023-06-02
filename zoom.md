@@ -1,20 +1,20 @@
 ## 下载和安装客户端
-
 当您开始或加入自己的第一个Zoom会议时，网页浏览器客户端将自动下载，还可在这里进行手动下载。
 
 ### Windows/Mac
 请访问[Zoom官网][1]，下载最新版本的Zoom会议客户端。
  
 你也可以选择下方适合的链接，直接下载：  
-[Windows 64位客户端][2]  
-[Windows 32位客户端][3]  
-[Windows Arm客户端][4]  
-[针对搭载Intel芯片的Mac设备][5]  
-[针对搭载Apple Silicon芯片的Mac设备][6]  
+Windows 64位客户端 [官方下载][2] 或 [加速下载][9]  
+Windows 32位客户端 [官方下载][3]  
+Windows Arm客户端 [官方下载][4] 
+
+针对搭载Intel芯片的Mac设备 [官方下载][5] 或 [加速下载][12]  
+针对搭载Apple Silicon芯片的Mac设备 [官方下载][6] 或 [加速下载][13]  
 
 ### 平板/手机
-苹果：在应用市场搜索关键词“Zoom”，下载Zoom Cloud Meetings会议室软件。  
-安卓：[下载地址][7]
+苹果：在App Store应用市场搜索关键词“Zoom”，下载Zoom Cloud Meetings会议室软件。  
+安卓：[官方下载][7] 或 [加速下载][14]
 
 ## 进入教室
 打开会议室软件，直接选择“加入会议”，输入会议号和姓名<span style="color:red">【注意：姓名请输入学生报名时的名字，方便老师沟通及核对】</span>
@@ -22,7 +22,6 @@
 然后点击加入，输入密码，即可进入教室。
 
 <!-- <span style="color:red">用户首次进入前须使用手机验证。</span> -->
-
 【注】会议号和密码，由我课创建，请在公众号【我课拼班】-【我的】-【我的课表】里查看。
 
 ## 基本操作
@@ -59,3 +58,7 @@ Pad端：进入以后如果没有视频，请点击右上方“开启视频”�
 [6]:https://www.zoom.us/client/5.14.7.18149/zoomusInstallerFull.pkg?archType=arm64
 [7]:https://zoom.us/client/latest/zoom.apk
 [8]:https://www.speedtest.cn/
+[9]:https://s1.mecourse.cn/download/zoom/windows/ZoomInstallerFull.exe
+[12]:https://s1.mecourse.cn/download/zoom/macOS/zoomusInstallerFull.pkg
+[13]:https://s1.mecourse.cn/download/zoom/macOS/zoomusInstallerFull_arm64.pkg
+[14]:https://s1.mecourse.cn/download/zoom/android/zoom.apk
