@@ -7,3 +7,4 @@ scripts
 .gitignore
 *.map
 node_modules
+download
