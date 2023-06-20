@@ -60,4 +60,4 @@ Pad端：进入以后如果没有视频，请点击右上方“开启视频”�
 [9]:https://s1.mecourse.cn/download/zoom/windows/ZoomInstallerFull.exe
 [12]:https://s1.mecourse.cn/download/zoom/macOS/zoomusInstallerFull.pkg
 [13]:https://s1.mecourse.cn/download/zoom/macOS/zoomusInstallerFull_arm64.pkg
-[14]:https://s1.mecourse.cn/download/zoom/android/zoom.apk
+[14]:https://s1.mecourse.cn/download/zoom/lastest/zoom.apk
