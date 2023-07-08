@@ -50,11 +50,11 @@ Pad端：进入以后如果没有视频，请点击右上方“开启视频”�
 2. 同时开启了两个扬声器，需禁用其中一个扬声器。
 
 [1]:https://zoom.us/download
-[2]:https://zoom.us/client/5.14.11.17466/ZoomInstallerFull.exe?archType=x64
-[3]:https://zoom.us/client/5.14.11.17466/ZoomInstallerFull.exe
-[4]:https://zoom.us/client/5.14.11.17466/ZoomInstallerFull.exe?archType=winarm64
-[5]:https://www.zoom.us/client/5.14.10.19202/zoomusInstallerFull.pkg
-[6]:https://www.zoom.us/client/5.14.10.19202/zoomusInstallerFull.pkg?archType=arm64
+[2]:https://zoom.us/client/5.15.2.18096/ZoomInstallerFull.exe?archType=x64
+[3]:https://zoom.us/client/5.15.2.18096/ZoomInstallerFull.exe
+[4]:https://zoom.us/client/5.15.2.18096/ZoomInstallerFull.exe?archType=winarm64
+[5]:https://www.zoom.us/client/5.15.2.19786/zoomusInstallerFull.pkg
+[6]:https://www.zoom.us/client/5.15.2.19786/zoomusInstallerFull.pkg?archType=arm64
 [7]:https://zoom.us/client/latest/zoom.apk
 [8]:https://www.speedtest.cn/
 [9]:https://s1.mecourse.cn/download/zoom/windows/ZoomInstallerFull.exe
