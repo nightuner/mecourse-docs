@@ -10,11 +10,12 @@
 [Windows Arm客户端][4]  
 [针对搭载Intel芯片的Mac设备][5]  
 [针对搭载Apple Silicon芯片的Mac设备][6]  
+[安卓版本客户端][7]  
 
 下载安装成功后，在您的应用程序中会增加一个 zoom 应用。
 
 ## 如何进入会议室上课
-微信扫码登录[我课网][7]，在老师工作台下， 点击【我的课表】 ，找到对应的班级，点击【开始上课】 ，就可以直接进入会议室准备上课了。 会议入口在课程开始前 30 分钟开放，课程结束 30 分钟后关闭。
+微信扫码登录[我课网][8]，在老师工作台下， 点击【我的课表】 ，找到对应的班级，点击【开始上课】 ，就可以直接进入会议室准备上课了。 会议入口在课程开始前 30 分钟开放，课程结束 30 分钟后关闭。
 ![课表](../images/zoom_2.png)
 
 ### 验证手机号码
@@ -66,9 +67,10 @@ G-结束： 点击结束后，会出现 2 个选项，一是结束会议，即�
 课程结束，老师退出屏幕共享，点击屏幕右下方的【结束】按钮， 选择【结束会议】 即可结束会议并离开。 老师（会议主持人） 点击结束后， 任何人无法再重新进入此会议室。
 
 [1]:https://zoom.us/download
-[2]:https://zoom.us/client/5.14.8.16213/ZoomInstallerFull.exe?archType=x64
-[3]:https://zoom.us/client/5.14.8.16213/ZoomInstallerFull.exe
-[4]:https://zoom.us/client/5.14.8.16213/ZoomInstallerFull.exe?archType=winarm64
-[5]:https://www.zoom.us/client/5.14.7.18149/zoomusInstallerFull.pkg
-[6]:https://www.zoom.us/client/5.14.7.18149/zoomusInstallerFull.pkg?archType=arm64
-[7]:https://www.meke.ai/
+[2]:https://zoom.us/client/5.15.2.18096/ZoomInstallerFull.exe?archType=x64
+[3]:https://zoom.us/client/5.15.2.18096/ZoomInstallerFull.exe
+[4]:https://zoom.us/client/5.15.2.18096/ZoomInstallerFull.exe?archType=winarm64
+[5]:https://www.zoom.us/client/5.15.2.19786/zoomusInstallerFull.pkg
+[6]:https://www.zoom.us/client/5.15.2.19786/zoomusInstallerFull.pkg?archType=arm64
+[7]:https://zoom.us/client/latest/zoom.apk
+[8]:https://www.meke.ai/
