@@ -5,17 +5,15 @@
 请访问[Zoom官网][1]，下载最新版本的Zoom会议客户端。
  
 你也可以选择下方适合的链接，直接下载：  
-[本地下载Windows 64位客户端][9] 版本：5.15.2(18096) (64位)  
-[官方下载64位客户端][2]  
-[官方下载32位客户端][3]  
-[官方下载ARM客户端][4]  
+Windows 64位客户端 [本地下载][9] [官方下载][2] 版本：5.15.5 (19404)  
+[下载32位客户端][3]  [下载ARM客户端][4]  
 
-针对搭载Intel芯片的Mac设备 [本地下载][12] 版本：5.15.2 (19786)   
-针对搭载Apple Silicon芯片的Mac设备 [本地下载][13]
+针对搭载Intel芯片的Mac设备 [本地下载][12] [官方下载][16] 版本：5.15.5 (20753)  
+针对搭载Apple Silicon芯片的Mac设备 [本地下载][13] [官方下载][15]  
 
 ### 平板/手机
 苹果：在App Store应用市场搜索关键词“Zoom”，下载Zoom Cloud Meetings会议室软件。  
-安卓：[本地下载安卓版][14]  或者  [官方下载安卓版][7]
+安卓：[本地下载][14]  或者  [官方下载][7]
 
 ## 进入教室
 打开会议室软件，直接选择“加入会议”，输入会议号和姓名<span style="color:red">【注意：姓名请输入学生报名时的名字，方便老师沟通及核对】</span>
@@ -52,14 +50,14 @@ Pad端：进入以后如果没有视频，请点击右上方“开启视频”�
 2. 同时开启了两个扬声器，需禁用其中一个扬声器。
 
 [1]:https://zoom.us/download
-[2]:https://zoom.us/client/5.15.2.18096/ZoomInstallerFull.exe?archType=x64
-[3]:https://zoom.us/client/5.15.2.18096/ZoomInstallerFull.exe
-[4]:https://zoom.us/client/5.15.2.18096/ZoomInstallerFull.exe?archType=winarm64
-[5]:https://www.zoom.us/client/5.15.2.19786/zoomusInstallerFull.pkg
-[6]:https://www.zoom.us/client/5.15.2.19786/zoomusInstallerFull.pkg?archType=arm64
+[2]:https://zoom.us/client/5.15.5.19404/ZoomInstallerFull.exe?archType=x64
+[3]:https://zoom.us/client/5.15.5.19404/ZoomInstallerFull.exe
+[4]:https://zoom.us/client/5.15.5.19404/ZoomInstallerFull.exe?archType=winarm64
 [7]:https://zoom.us/client/latest/zoom.apk
 [8]:https://www.speedtest.cn/
 [9]:https://s1.mecourse.cn/download/zoom/windows/ZoomInstallerFull.exe
 [12]:https://s1.mecourse.cn/download/zoom/macOS/zoomusInstallerFull.pkg
 [13]:https://s1.mecourse.cn/download/zoom/macOS/zoomusInstallerFull_arm64.pkg
-[14]:https://s1.mecourse.cn/download/zoom/lastest/zoom.apk
+[14]:https://s1.mecourse.cn/download/zoom/android/zoom.apk
+[15]:https://www.zoom.us/client/5.15.5.20753/zoomusInstallerFull.pkg?archType=arm64
+[16]:https://www.zoom.us/client/5.15.5.20753/zoomusInstallerFull.pkg
