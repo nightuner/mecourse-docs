@@ -11,14 +11,14 @@
 <!-- [下载32位客户端][3]  [下载ARM客户端][4]   -->
 ***
 ### macOS
-+ [Zoom desktop client for Meetings][16] 针对搭载Intel芯片的Mac设备 
-+ [Zoom desktop client for Meetings (ARM)][15] 针对搭载Apple Silicon芯片的Mac设备
++ [Zoom desktop client for Meetings][16] 支持搭载Intel芯片的Mac设备 
++ [Zoom desktop client for Meetings (ARM)][15] 支持搭载Apple Silicon芯片的Mac设备
 ***
 ### 安卓Android
-+ [Zoom mobile app for Meetings][7]
++ [Zoom mobile app for Meetings][7] 支持安卓平板和安卓手机  
 ***
 ### 苹果iOS
-+ [Zoom mobile app for Meetings][17]  
++ [Zoom mobile app for Meetings][17] 支持iPad和iPhone  
 您可以在App Store应用市场搜索关键词“Zoom”，下载Zoom Cloud Meetings会议室软件。
 ***
 
